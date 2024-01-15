@@ -1,5 +1,7 @@
+🌱 <b><i>"Ayo hijaukan dan hidupkan dunia"</b></i> ☘️
+
 # 💫 About Me:
-👋 Hi, I’m rani<br>👀 I’m interested in front-end engineering (react)<br>💞️ I’m looking for collaborate on web development<br>📫 How to reach me : ranimeliyanaputri@gmail.com<br><br><br>🌱 Ayo hijaukan dan hidupkan dunia ☘️
+👋 Hi, I’m rani<br>👀 I’m interested in front-end engineering (react)<br>💞️ I’m looking for collaborate on web development<br>📫 How to reach me : ranimeliyanaputri@gmail.com
 
 
 ## 🌐 Socials:
